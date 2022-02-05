@@ -1,0 +1,29 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav-Andrievych/front-end-tools-lesson4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson4/issues"
+  },
+  "homepage": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson4#readme",
+  "dependencies": {
+    "core-js": "^3.21.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.0",
+    "@babel/core": "^7.17.0"
+  }
+}
